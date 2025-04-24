@@ -3,7 +3,7 @@ Pillow==9.1.0
 transformers==4.23.0
 torch==1.12.1
 altair==4.1.0
-IMAGE CAPTION
+//IMAGE CAPTION
 streamlit>=1.17
 transformers
 torch
@@ -11,7 +11,7 @@ Pillow
 numpy<2
 
 altair==4.2.2 
-IMAGE FILTER
+//IMAGE FILTER
 streamlit==1.18.1
 opencv-python-headless==4.5.5.62
 Pillow==9.0.0
